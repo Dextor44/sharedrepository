@@ -1,4 +1,7 @@
 this is test file
+<<<<<<< HEAD
 
 
 Changed file
+=======
+>>>>>>> branch 'master' of https://github.com/Dextor44/sharedrepository.git
